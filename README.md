@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Randima Gunaweera
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...randima.g2002@gmail.com
+- 👋 Hi, I’m Randima Gunaweera.
+- 👀 Tech Enthusiast | Full Stack | Quality Assurance | DevOps
+- 🌱 I’m currently studying Computer Science at Informatics Institute of Technology affiliated with University of Westminster.
+- 💞️ I’m looking to collaborate on innovative projects and gain valuable experience.
+- 📫 randima.g2002@gmail.com
 
 <!---
 RGunaweera/RGunaweera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
